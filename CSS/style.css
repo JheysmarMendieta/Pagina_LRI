@@ -13,7 +13,7 @@ html{
 /* Menu */
 header{
     width: 100%;
-    height: 60px;
+    height: 130px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -29,7 +29,9 @@ a:hover{
 }
 nav{
     display: flex;
-    gap: 30px;
+    gap: 200px;
+    position: fixed;
+    top: 50px;
 }
 nav#Menu {
     margin-top: 10px;
