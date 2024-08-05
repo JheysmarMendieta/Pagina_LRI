@@ -1,0 +1,15 @@
+footer{
+    color: white;
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+  
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(../img/fondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+}

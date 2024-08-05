@@ -1,0 +1,17 @@
+html{
+    /* background-image: url(https://gtwallpaper.org/sites/default/files/wallpaper/247069/pokedex-background-247069-1793202-8734590.png); */
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+/* Main */
+main{
+    width: 100%;
+    height: fit-content;
+    min-height: calc(200vh - ( 80px + 100px));
+}
