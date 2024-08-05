@@ -13,3 +13,41 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+.social>* img {
+    position: initial;
+    top: 50;
+    right: 0;
+}
+
+.social {
+    top: 20%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.instagram{
+    height: 80px;
+    width: 100px;
+}
+
+.facebook{
+    height: 80px;
+    width: 100px;
+}
+
+.Twiter{
+    height: 80px;
+    width: 100px;
+}
+
+.Youtube{
+    height: 80px;
+    width: 100px;
+}
+
+.WhatsApp{
+    height: 80px;
+    width: 100px;
+}
